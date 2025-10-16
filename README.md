@@ -2,15 +2,19 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C4FF,100:7A00FF&height=2" alt="gradient" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00C4FF&center=true&vCenter=true&width=750&lines=Hello!+I'm+Nodir!;IT+Mentor+and+Top+Developer;I+prepare+youth+for+modern+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&duration=2500&color=00C4FF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Nodir+%F0%9F%91%8B;IT+Mentor+%C2%B7+Senior+Software+Engineer;Security-minded+Backend+%26+AI+Bots+Developer;Building+with+Python%2C+Django%2C+FastAPI%2C+Aiogram" alt="Typing SVG" />
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C4FF,100:7A00FF&height=120&text=IT%20Mentor%20%7C%20Software%20Engineer%20%7C%20Cybersecurity&fontColor=ffffff&fontAlignY=45&animation=twinkling" alt="title" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C4FF,100:7A00FF&height=120&text=Mentor%20%7C%20Engineer%20%7C%20Cybersecurity&fontColor=ffffff&fontAlignY=45&animation=twinkling" alt="title" />
 </div>
 
 <div align="center">
   <a href="https://github.com/NodirOdilov"><img src="https://img.shields.io/badge/Follow-@NodirOdilov-00C4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=NodirOdilov&color=00C4FF&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Mentor-Available-7A00FF?style=for-the-badge" alt="mentor" />
+  <br/>
+  <a href="https://t.me/NodirOdilov"><img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram CTA" /></a>
+  <a href="https://www.linkedin.com/in/odilov-nodir"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn CTA" /></a>
+  <a href="mailto:tuproqqalam@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email CTA" /></a>
 </div>
 
 ---
@@ -34,7 +38,7 @@
 
 ## 🧩 Technologies
 
-### 🎨 Frontend
+### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
