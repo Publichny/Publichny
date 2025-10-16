@@ -4,7 +4,7 @@
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&duration=2500&color=00C4FF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Nodir+%F0%9F%91%8B;IT+Mentor+%C2%B7+Senior+Software+Engineer;Security-minded+Backend+%26+AI+Bots+Developer;Building+with+Python%2C+Django%2C+FastAPI%2C+Aiogram" alt="Typing SVG" />
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C4FF,100:7A00FF&height=120&text=Mentor%20%7C%20Engineer%20%7C%20Cybersecurity&fontColor=ffffff&fontAlignY=45&animation=twinkling" alt="title" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C4FF,100:7A00FF&height=90&text=Software%20Engineer%20%7C%20System%20Administrator%20%7C%20Pentester&fontColor=ffffff&fontAlignY=45&fontSize=24&animation=twinkling" alt="title" />
 </div>
 
 <div align="center">
