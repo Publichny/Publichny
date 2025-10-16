@@ -18,7 +18,9 @@
 </div>
 
 ---
-
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C4FF,100:7A00FF&height=90&text=Software%20Engineer%20%7C%20System%20Administrator%20%7C%20Pentester&fontColor=ffffff&fontAlignY=45&fontSize=24&animation=twinkling" alt="title" />
+</div>
 ## 🧑‍💻 About Me
 
 - **Expertise**: Software Engineer · System Administrator · Pentester  
